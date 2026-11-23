@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  
+  <rect width="64" height="64" rx="16" fill="#1f3328" />
+
+  
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="&#39;DM Sans&#39;, sans-serif" font-weight="700" font-size="32" letter-spacing="-0.5" fill="#f4f1e8">
+    B<tspan fill="#849b70">.</tspan>E
+  </text>
+</svg>
