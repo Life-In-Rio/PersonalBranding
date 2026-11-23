@@ -2,7 +2,7 @@
 
 A modern, minimalist, and interactive personal portfolio website designed and developed by **Abyan Eshan** to showcase selected web and mobile development projects, technical skills, and contact channels.
 
-🔗 **Live Demo:** [abyan-eshan.netlify.app](https://abyan-eshan.netlify.app) *(ganti dengan URL Netlify lu)*
+🔗 **Live Demo:** https://beeprofile.netlify.app/
 
 ---
 
